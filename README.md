@@ -1,5 +1,5 @@
 # git_test
-My not first ghub repo!
+Not my first ghub repo!
 Hello Odin!
 bro what?
 nicez
